@@ -1,0 +1,44 @@
+body{
+	height: 600px;
+}
+
+button{
+	background: skyblue;
+	border-radius: 20px;
+}
+
+table{
+	position: relative;
+	margin-bottom: 400;
+	margin-left: 100;
+}
+.row1{
+	width: 100px;
+	height: 100px;
+	
+}
+.images{
+	
+	width: 100px;
+	height: 100px;
+	display:block;
+
+}
+.row2{
+	width: 100px;
+	height: 100px;
+	
+}
+.row3{
+	width: 100px;
+	height: 100px;
+
+	
+}
+.row4{
+	width: 100px;
+	height: 100px;
+	
+}
+
+
